@@ -1,19 +1,19 @@
 var friends = [
 	{
 		name: 'Donald Trump',
-		photo: 'http://theresurgent.com/wp-content/uploads/2016/02/nbc-fires-donald-trump-after-he-calls-mexicans-rapists-and-drug-runners-1.jpg',
+		photo: 'https://cdn.cnn.com/cnnnext/dam/assets/160115151441-donald-trump-shrug-super-tease.jpg',
 		scores: [1, 5, 1, 1, 5, 5, 5, 1, 5, 5]
 	},{
-		name: 'Alex Morgan',
-		photo: 'http://www.famousbirthdays.com/headshots/alex-morgan-3.jpg',
+		name: 'Dave Chappelle',
+		photo: 'https://i.ytimg.com/vi/pZ_R4glgnOg/maxresdefault.jpg',
 		scores: [4, 1, 4, 5, 1, 1, 1, 5, 1, 1]
 	},{
-		name: 'Phil Dunphy',
-		photo: 'https://cdn.pastemagazine.com/www/blogs/lists/2012/07/20/phil-dunphy.jpg',
+		name: 'Bob Marley',
+		photo: 'https://www.billboard.com/files/styles/article_main_image/public/media/fd16-bw-bob-marley-billboard-1548.jpg',
 		scores: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
 	},{
-		name: 'Natalie Coughlin',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/natalie-olympics.jpg',
+		name: 'Ghandi',
+		photo: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201610/mi-647-x-404_100115061838.jpg',
 		scores: [5, 1, 5, 2, 1, 1, 1, 5, 1, 1]
 	}];
 
